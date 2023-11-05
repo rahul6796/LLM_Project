@@ -6,3 +6,5 @@ bitsandbytes
 transformers
 sentence_transformers
 faiss_cpu
+chainlit
+ctransformers

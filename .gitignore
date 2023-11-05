@@ -159,4 +159,6 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 .idea/*
 QA_on_medical_dataset/llama-2-7b-chat.ggmlv3.q8_0.bin
+QA_on_medical_dataset/vectorstores/*
+QA_on_medical_dataset/data/Noor-Book.com  موسوعة غيل للطب 11 .pdf
 
